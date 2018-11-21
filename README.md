@@ -3,7 +3,7 @@
 This assignment is open-ended and creative. The task is simply to make a
 computer graphics image, video, animation, or interactive experience.
 
-![](images/trophy.png)
+![](images/trophy.jpg)
 
 The student with the best result will be awarded the "best in show" trophy.
 
