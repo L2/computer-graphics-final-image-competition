@@ -29,6 +29,23 @@ Muhammed Anwar's "Stanford Dragon", Fall 2016
 
 ![](images/muhammed-anwar-dragon.jpg)
 
+Ryan Williams' "Toys", Winter 2016
+
+![](images/ryan-williams-ball-teddy-bear.jpg)
+
+David La's "Newton's Cradle", Winter 2016
+
+![](images/david-la-newtons-cradle.jpg)
+
+Monica Iulia Leonte's "City", Winter 2017
+
+![](images/monica-leonte-city.jpg)
+
+Jiahui Cai's "Table", Winter 2017
+
+![](images/jiahui-cai-table.jpg)
+
+
 ## Tasks
 
 Your submission has three parts:
