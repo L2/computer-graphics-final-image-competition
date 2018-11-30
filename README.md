@@ -45,6 +45,10 @@ Jiahui Cai's "Table", Winter 2017
 
 ![](images/jiahui-cai-table.jpg)
 
+Darren Moore's "Bounce", Winter 2017
+
+![](images/darren-moore-bounce.gif)
+
 
 ## Tasks
 
