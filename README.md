@@ -21,7 +21,7 @@ or screen recording of an interaction.
 
 ## Past winners
 
-Gavin Barill's "Snowglobe", Winter 2016.
+Gavin Barill and Trevor Anderson's "Snowglobe", Winter 2016.
 
 ![](images/gavin-barill-snowglobe.jpg)
 
@@ -57,7 +57,7 @@ Your submission has three parts:
 ### `submission/README.md`
 
 A short readme describing the work _you've_ done and an acknowledgment of any
-existing code/assets you've _not_ done yourself.
+existing code/assets you've _not_ done yourself. ***Please include your lecture section***.
 
 ### `submission/source.zip`
 
