@@ -57,7 +57,7 @@ Your submission has three parts:
 ### `submission/README.md`
 
 A short readme describing the work _you've_ done and an acknowledgment of any
-existing code/assets you've _not_ done yourself. ***Please include your lecture section***.
+existing code/assets you've _not_ done yourself. ***In the readme, please include your lecture section at the top***.
 
 ### `submission/source.zip`
 
